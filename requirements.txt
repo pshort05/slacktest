@@ -1,2 +1,4 @@
-nose
-sphinx
+nose>=0.0.1
+sphinx>=0.0.1
+slackclient>=0.0.1
+ConfigParser>=0.0.1
