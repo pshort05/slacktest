@@ -1,3 +1,3 @@
-def get_answer():
+def funct1():
     """Get an answer."""
     return True
